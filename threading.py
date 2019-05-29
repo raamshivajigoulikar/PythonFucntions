@@ -1,3 +1,6 @@
+#Threads in python can be created by threading package.
+#start is the method to start the thread
+
 #Without creating any class
 from threading import *
 def display():
